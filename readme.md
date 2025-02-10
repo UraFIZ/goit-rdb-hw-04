@@ -7,7 +7,8 @@
 Детальніше про створення таблиць можна дізнатися [тут](init_tables.md).
 
 ## Завдання
-
+- [Завдання 1: Cтворення бази даних](1_create_db.md.md)
+- [Завдання 2: Заповнення давними](2_insert_real_data.md)
 - [Завдання 3: INNER JOIN](3_inner_join_topic_3.md)
 - [Завдання 4.1: COUNT](4.1_count.md)
 - [Завдання 4.2: Зміна на LEFT JOIN](4.2_change_to_left.md)
